@@ -1,0 +1,45 @@
+2016-07-27 12:41:04 - PHP Notice:  Indirect modification of overloaded property ControllerApiCustomer::$session has no effect in /var/www/html/cart/catalog/controller/api/customer.php on line 7
+2016-07-27 12:41:04 - PHP Warning:  Attempt to modify property of non-object in /var/www/html/cart/catalog/controller/api/customer.php on line 7
+2016-07-27 12:41:07 - PHP Notice:  Indirect modification of overloaded property ControllerApiCustomer::$session has no effect in /var/www/html/cart/catalog/controller/api/customer.php on line 7
+2016-07-27 12:41:07 - PHP Warning:  Attempt to modify property of non-object in /var/www/html/cart/catalog/controller/api/customer.php on line 7
+2016-07-27 15:37:49 - PHP Warning:  imagepng(/home/kibrom/Ecommerce/opencart/image/cache/no_image-40x40.png): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 66
+2016-07-27 15:38:15 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_1-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:38:15 - PHP Warning:  imagepng(/home/kibrom/Ecommerce/opencart/image/cache/no_image-100x100.png): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 66
+2016-07-27 15:38:15 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_5-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:38:15 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_4-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:38:15 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_2-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:38:15 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_3-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:39:11 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_1-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:39:11 - PHP Warning:  imagepng(/home/kibrom/Ecommerce/opencart/image/cache/no_image-100x100.png): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 66
+2016-07-27 15:39:11 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_5-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:39:11 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_4-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:39:11 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_2-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:39:11 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_3-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:40:28 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_1-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:40:28 - PHP Warning:  imagepng(/home/kibrom/Ecommerce/opencart/image/cache/no_image-100x100.png): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 66
+2016-07-27 15:40:28 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_5-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:40:28 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_4-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:40:28 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_2-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:40:28 - PHP Warning:  imagejpeg(/home/kibrom/Ecommerce/opencart/image/cache/catalog/demo/macbook_3-100x100.jpg): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 64
+2016-07-27 15:40:40 - PHP Warning:  imagepng(/home/kibrom/Ecommerce/opencart/image/cache/no_image-100x100.png): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 66
+2016-07-27 15:41:14 - PHP Warning:  imagepng(/home/kibrom/Ecommerce/opencart/image/cache/no_image-100x100.png): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 66
+2016-07-27 15:41:57 - PHP Warning:  imagepng(/home/kibrom/Ecommerce/opencart/image/cache/no_image-40x40.png): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 66
+2016-07-27 15:42:20 - PHP Warning:  imagepng(/home/kibrom/Ecommerce/opencart/image/cache/no_image-40x40.png): failed to open stream: Permission denied in /home/kibrom/Ecommerce/opencart/system/library/image.php on line 66
+2016-07-27 15:55:31 - PHP Notice:  Undefined index: sort_order in /home/kibrom/Ecommerce/opencart/admin/controller/design/banner.php on line 386
+2016-07-28 7:12:48 - PHP Notice:  Undefined index: sort_order in /home/kibrom/Ecommerce/opencart/admin/model/design/banner.php on line 37
+2016-07-28 7:12:48 - PHP Notice:  Undefined index: sort_order in /home/kibrom/Ecommerce/opencart/admin/model/design/banner.php on line 37
+2016-07-28 7:53:18 - PHP Notice:  Undefined index: sort_order in /home/kibrom/Ecommerce/opencart/admin/model/design/banner.php on line 37
+2016-07-28 7:53:18 - PHP Notice:  Undefined index: sort_order in /home/kibrom/Ecommerce/opencart/admin/model/design/banner.php on line 37
+2016-07-28 7:53:18 - PHP Notice:  Undefined index: sort_order in /home/kibrom/Ecommerce/opencart/admin/model/design/banner.php on line 37
+2016-07-28 9:20:49 - PHP Notice:  Undefined variable: text_address_new_dejaf_code in /home/kibrom/Ecommerce/opencart/catalog/view/theme/default/template/checkout/shipping_address.tpl on line 28
+2016-07-28 9:22:05 - PHP Notice:  Undefined variable: text_address_new_dejaf_code in /home/kibrom/Ecommerce/opencart/catalog/view/theme/default/template/checkout/shipping_address.tpl on line 28
+2016-07-28 11:44:31 - PHP Notice:  Undefined variable: text_address_new_dejaf_code in /home/kibrom/Ecommerce/opencart/catalog/view/theme/default/template/checkout/shipping_address.tpl on line 28
+2016-07-28 11:47:16 - PHP Notice:  Undefined variable: text_address_new_dejaf_code in /home/kibrom/Ecommerce/opencart/catalog/view/theme/default/template/checkout/shipping_address.tpl on line 28
+2016-07-29 7:13:01 - PHP Notice:  Undefined index: sort_order in /home/kibrom/Ecommerce/opencart/admin/model/design/banner.php on line 37
+2016-07-29 7:23:08 - PHP Notice:  Undefined index: sort_order in /home/kibrom/Ecommerce/opencart/admin/model/design/banner.php on line 37
+2016-07-29 7:29:03 - PHP Notice:  Undefined variable: entry_export in /home/kibrom/Ecommerce/opencart/admin/view/template/tool/backup.tpl on line 43
+2016-07-29 8:35:36 - PHP Notice:  Undefined index: sort_order in /home/kibrom/Ecommerce/opencart/admin/model/design/banner.php on line 37
+2016-07-29 8:35:36 - PHP Notice:  Undefined index: sort_order in /home/kibrom/Ecommerce/opencart/admin/model/design/banner.php on line 37
+2016-07-29 8:44:29 - PHP Notice:  Undefined index: sort_order in /home/kibrom/Ecommerce/opencart/admin/controller/design/banner.php on line 386
+2016-07-29 8:51:29 - PHP Notice:  Undefined index: sort_order in /home/kibrom/Ecommerce/opencart/admin/model/design/banner.php on line 37
+2016-07-29 9:02:32 - PHP Notice:  Undefined index: sort_order in /home/kibrom/Ecommerce/opencart/admin/model/design/banner.php on line 37
